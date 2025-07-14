@@ -1,7 +1,7 @@
 # Welcome, I'm Ivan Krupik 👋
 
 ### Senior Software Engineer | Full-Stack Developer
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=krupikivan&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
 ## About Me
 
