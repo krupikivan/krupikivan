@@ -81,10 +81,9 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 - **Tech Stack**: Flutter, Android SDK, Banking APIs
 - **Impact**: Argentina's equivalent to Zelle for peer-to-peer payments
 
-## My Latest Blog Posts
-<!-- POSTS:START -->
-[Space for your blog posts - will be populated automatically]
-<!-- POSTS:END -->
+## My Blog Posts
+<!-- POSTS:START --><li><a href='https://medium.com/@krupikivan/12c06be4ab92'>📦 Everything you need to know about iOS Signing Code.</p></li><!-- POSTS:END -->
+
 
 ## Links:
 [![Website](https://img.shields.io/badge/Website-Ivan_Krupik-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://krupikivan.github.io/ivan-krupik-portfolio/)
