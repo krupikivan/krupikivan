@@ -1,6 +1,6 @@
 # Welcome, I'm Ivan Krupik 👋
 
-### Senior Software Engineer | Full-Stack Developer
+### Senior Software Engineer | Full-Stack Developer | 9+ Years of Experience
 [![GitHub Streak](https://streak-stats.demolab.com?user=krupikivan&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
 ## About Me
@@ -13,7 +13,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 </br>
 🫂 I enjoy working in teams and mentoring other developers.
 </br>
-🚀 Currently building Django applications with LLM integration using LangChain.
+🚀 Currently building AI-powered SaaS products at Ryoko Data Services using LangChain, OpenAI, and Anthropic APIs.
 
 ## Technologies:
 
@@ -66,6 +66,16 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 </div>
 
 ## 🏗️ Notable Projects
+
+#### 🤖 **Stay in Touch CRM** — Ryoko Data Services
+- **Tech Stack**: Django, LangChain, OpenAI, Anthropic APIs, React, PostgreSQL
+- **Impact**: Modular AI-powered CRM targeting 100+ service providers
+- **Features**: Scheduling, client tracking, records management, integrated payments, and automated workflows
+
+#### 📱 **Ryoko AI-CM** — Ryoko Data Services
+- **Tech Stack**: Django, LangChain, OpenAI, Anthropic APIs, Instagram/Facebook/LinkedIn APIs
+- **Impact**: Automated content platform targeting 40+ marketing agencies
+- **Features**: AI-generated text and image creation, daily publishing to Instagram, Facebook, and LinkedIn
 
 #### 🐾 **MascotaMas** - Pet Service Platform
 - **Tech Stack**: Flutter, Ruby on Rails, Firebase, Agora SDK
