@@ -96,7 +96,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 
 
 ## Links:
-[![Website](https://img.shields.io/badge/Website-Ivan_Krupik-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://krupikivan.github.io/ivan-krupik-portfolio/)
+[![Website](https://img.shields.io/badge/Website-Ivan_Krupik-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://portfolio.krupiklabs.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Krupik-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/krupikivan)
 
 ## Contact:
