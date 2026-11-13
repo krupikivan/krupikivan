@@ -77,11 +77,6 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 - **Impact**: Automated content platform targeting 40+ marketing agencies
 - **Features**: AI-generated text and image creation, daily publishing to Instagram, Facebook, and LinkedIn
 
-#### 🐾 **MascotaMas** - Pet Service Platform
-- **Tech Stack**: Flutter, Ruby on Rails, Firebase, Agora SDK
-- **Achievement**: 4,000+ weekly active users with paid subscriptions
-- **Features**: Real-time video calls, location tracking, appointment scheduling
-
 #### 🏥 **Healthcare Solutions at Babyscripts**
 - **Tech Stack**: Flutter, Node.js, PostgreSQL, AWS
 - **Impact**: Improved maternal care through IoT integration and AI tools
